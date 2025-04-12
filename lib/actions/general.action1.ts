@@ -1,4 +1,4 @@
-"use server";
+/* "use server";
 
 import { generateObject } from "ai";
 import { google } from "@ai-sdk/google";
@@ -123,3 +123,4 @@ export async function getInterviewsByUserId(
     ...doc.data(),
   })) as Interview[];
 }
+ */
